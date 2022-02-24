@@ -5,7 +5,6 @@ $('.drawer-icon').click(function(){
   $('.drawer-content').toggleClass('is-active');
   $('.drawer-background').toggleClass('is-active');
 
-  //calss . .....忘れてた
 });
 
 //背景クリックしたら消えるやつ
